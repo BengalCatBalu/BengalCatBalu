@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Ivan Efimov, a passionate blockchain enthusiast and machine learning enthusiast.
+I'm Ivan Efimov, a passionate blockchain and machine learning enthusiast.
 
 - 🌍 **Languages**: Fluent in English (B2 level)
 - 💼 **Current Focus**: Studying blockchain technologies at Stanford University ([CS251 Course](https://cs251.stanford.edu/syllabus.html)) and diving deep into Machine Learning.
