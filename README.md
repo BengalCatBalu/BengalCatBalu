@@ -6,4 +6,4 @@
 - - 🥲 **Finished Online Courses** Stanford University ([CS251 Course](https://cs251.stanford.edu/syllabus.html)) and Ethereum Bootcamp at Alchemy University
 - 🏆 **Mathematics Olympiad**: In my school days, I achieved significant success by winning two student mathematics Olympiads
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/waka_c1e0e296-4809-4354-af5f-0a311776764e.svg)](https://wakatime.com/@BengalCatBalu)
