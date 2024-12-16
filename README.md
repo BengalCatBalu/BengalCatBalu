@@ -1,7 +1,7 @@
 # Security Portfolio
 
 ## About Me
-Hi! I’m **BengalCatBalu**. I like to do complicated things. Doing math, philosophy...and **web3 security**.
+I like to do complicated things. Doing math, philosophy...and **web3 security**.
 
 Started learning web3 security in the spring of 2024.
 
