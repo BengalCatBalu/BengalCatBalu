@@ -9,10 +9,11 @@ Full-time in audits since September 2024
 
 ---
 
-## 🌟 Greatest Results (TOP-3)
+## 🌟 Greatest Results
 - Cantina: **StakeUp** 6/363 - [Here](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)
 - Cantina: **Royco** 18/281 - [Here](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)
 - Sherlock: **vVv Staking** 1/267 - [Here](https://audits.sherlock.xyz/contests/647)
+- Sherlock **Ethos Network Financial Contracts** 10/395 - [Here](https://audits.sherlock.xyz/contests/675)
 
 ---
 
