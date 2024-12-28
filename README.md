@@ -5,7 +5,7 @@ I like to do complicated things. Doing math, philosophy...and **web3 security**.
 
 Started learning web3 security in the spring of 2024.
 
-Participate in public audits since August 2024
+Full-time in audits since September 2024
 
 ---
 
