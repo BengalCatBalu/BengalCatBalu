@@ -19,5 +19,4 @@ Full-time in audits since September 2024
 
 ## Get in Touch
 - **Cantina** [Profile](https://cantina.xyz/u/BengalCatBalu)
-- **Telegram**: [@Kotiki16](https://t.me/Kotiki16)
 - **X** [BengalCatBalu](https://x.com/BengalCatBalu)
