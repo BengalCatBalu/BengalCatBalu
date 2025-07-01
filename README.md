@@ -12,7 +12,7 @@ In the long term, I aim to audit blockchain systems across all major languages a
 ---
 
 ## 🌟 Portfolio
-Here you can find my results in Web3 security journey and a little bit about me - [portfolio](#)
+Here you can find my results in Web3 security journey and a little bit about me - [portfolio](https://github.com/BengalCatBalu/Portfolio)
 
 ---
 
