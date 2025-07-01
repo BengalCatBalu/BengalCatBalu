@@ -1,19 +1,18 @@
-# Security Portfolio
-
 ## About Me
-I like to do complicated things. Doing math, philosophy...and **web3 security**.
+Hi, I'm Ivan 👋
 
-Started learning web3 security in the spring of 2024.
+I’m interested in systems that are hard to reason about — where architecture meets logic, and failure is subtle.
 
-Full-time in audits since September 2024
+Most of my work lives in the gray zones between math, software, and trust: systems that behave differently under pressure, protocols with hidden assumptions, and designs that are one edge case away from breaking.
+
+I explore architecture and security of smart contracts, Layer 2 systems, AMMs, vaults, and bridges — especially where economic logic and code execution intersect.
+
+In the long term, I aim to audit blockchain systems across all major languages and dive deeper into ZK.
 
 ---
 
-## 🌟 Greatest Results
-- Cantina: **StakeUp** 6/363 - [Here](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)
-- Cantina: **Royco** 18/281 - [Here](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)
-- Sherlock: **vVv Staking** 1/267 - [Here](https://audits.sherlock.xyz/contests/647)
-- Sherlock **Ethos Network Financial Contracts** 10/395 - [Here](https://audits.sherlock.xyz/contests/675)
+## 🌟 Portfolio
+Here you can find my results in Web3 security journey and a little bit about me - [portfolio](#)
 
 ---
 
