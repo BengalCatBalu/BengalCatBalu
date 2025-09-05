@@ -3,8 +3,6 @@ I’m interested in systems that are hard to reason about — where architecture
 
 I explore architecture and security of smart contracts, Layer 2 systems, AMMs, vaults, and bridges — especially where economic logic and code execution intersect.
 
-In the long term, I aim to audit blockchain systems across all major languages and dive deeper into ZK.
-
 ---
 
 ## 🌟 Portfolio
